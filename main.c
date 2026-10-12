@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
   printf("hello world")
-  printf("wlcomne to cmrit")
+  printf("welcomne to cmrit")
 returm 0,
 }
